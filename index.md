@@ -1,5 +1,3 @@
-[![Ask Me Anything](https://img.shields.io/badge/Ask_me!-anything-orange.svg?style=for-the-badge&logo=gmail)](mailto:asantiago@arsari.com "I can help you!")&nbsp;&nbsp;<a id="top" href="https://www.arsari.us/blog" title="Posts about coding" target="_blank"><img src="https://img.shields.io/badge/Blog-arsari.us-lightblue.svg?style=for-the-badge&logo=blogger" /></a>&nbsp;&nbsp;![GitHub Last Commit](https://img.shields.io/github/last-commit/arsari/ePortfolio?style=for-the-badge&logo=github "ePortfolio Last Update")
-
 ## Welcome
 
 This ePortfolio integrates the knowledge and skills I gained and developed throughout the years of studying a Computer Science program at Southern New Hampshire University (SNHU). It represent my growth in the program and gained honor rolls from high-quality outcomes. The ePortfolio was designed and developed with a professional-quality written and a visual communication demonstrative of my capacities and abilities in a coherent, technically sound, and appropriately adapted to an specific technical audience and context.
