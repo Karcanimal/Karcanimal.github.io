@@ -1,6 +1,7 @@
 ## Welcome
 
-This ePortfolio is a highlight of all the skills that I have gained over the past 4 years. When I started the Computer Science program at SNHU I knew nothing about programming. 
+This ePortfolio is a highlight of all the skills that I have gained over the past 4 years. 
+With no experience with programming when I started, it is amazing how far I have come. 
 
 ### <u>Table of Content</u>
 
