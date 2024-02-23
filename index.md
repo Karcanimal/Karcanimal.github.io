@@ -1,4 +1,4 @@
-<img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+# _Professional Self Assessment_
 
 I enrolled in the Computer Science program at SNHU in March 2021 with the initial goal of securing advancement opportunities in the Army. While I initially chose this program due to the job prospects it offered, I was pleasantly surprised by the depth of software development courses it included. As I delved into programming fundamentals, I found myself thoroughly enjoying the classes and discovering the myriad of skills that were directly applicable to my role as a Radio Technician.
 
@@ -26,7 +26,7 @@ Looking ahead, I am eager to continue leveraging the skills and knowledge acquir
 
 </div>
 
-### _Artifact Overview_
+# _Artifact Overview_
 
 The artifact I have chosen to enchance for Software Design and Engineering, Algorithms and Data Structure, and Database categories is the Final project for the CS 360: Mobile Architecture and Programming. The Software Design and Engineering category plan was to improve the user interface, improve the readability of the code base, incorporating a logging mechanism, and proper encryption algotithms to the databases. The Algorithm and Data Structure enhancement plan was to create a scalable data structure that is tailored to the indivdual user. The Database enhancement plan was to incorporate process to import and export csv file to allow users to import thier current information and export the application database to transfer between systems. The enhancement plan also included the addtion of a filter to sort information. 
 
@@ -39,18 +39,11 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 <br/>
 
-### _Code Review_
-
-<img id="codereview" src="assets/img/coder_eview.png" alt="Code Review" title="Code Review" />
+# _Code Review_
 
 As a software engineer, I know that code reviews are critical aspects of software development. Code reviews ensure quality assurance for our project's code and often identify critical bugs early on in its life cycle. However, the typical code review can be tedious with too many meetings and meetings that waste time. We can think that code reviews add an unnecessary bureaucracy to our development life cycle or believe we are too small to warrant the effort. In both instances, we are mistaken.
 
 Code review is a systematic examination of the computer source code, sometimes known as peer review. I intend to find and fix mistakes overlooked in the initial development phase, improving the overall quality of the software and my developers' skills. In the professional world of programming, code reviews are a staple of quality assurance. A code review can be accomplished in various ways and with any requirements, but it is a straightforward concept stripped down to its bare essence. It is necessary for anyone interested in software engineering best practices.
-
-<div style="text-align: center;">
-    <img src="assets/img/IT145-JavaCode.png" width="720px" title="Zoo Monitor System Program Java Code Screenshot" />
-    <p><em>Figure 3 - Zoo Monitoring System Program Java Code Screenshot</em></p>
-</div>
 
 Code reviews catch errors when they’re cheap to fix, strengthen the team’s abilities, and add a certain amount of fault tolerance to the organization or individuals to better recover from disruptive changes. It results in better code, which is more easily maintained. Exercising a code review of the selected artifacts for software design and engineering, algorithms and data structure, and databases helped me to capacitate and employ strategies that help in the building of collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science based on the critical elements of existing functionality code analysis, and enhancements.
 
@@ -70,7 +63,7 @@ Code reviews catch errors when they’re cheap to fix, strengthen the team’s a
 
 <br/>
 
-<img id="softwaredesign" src="assets/img/softwaredesign.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+# _Software Design and Engineering_
 
 As showcased in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the software design and engineering category is the **mobile application Inventory App**. The app's goal is to track an inventory of items using android mobile devices. The software was planned, designed, and develop as part of the CS360 Mobile Architecture and Programming computer science course. The application is developed in JAVA programming language with integration to the relational database SQLite. The development and programming tool used is Android Studio IDE. The testing and running of the app are through a Nexus device emulator inside Android Studio.
 
@@ -117,7 +110,7 @@ I designed software that considers and interprets user needs and implement them 
 
 I developed an organized structure of a block of codes that can be separated into a primary class and four classes (modules). One of the four classes is a menu (Display Class) repetitive in the three key system modules, RoleModule, MonitorModule, and User Module. I introduce GUI actions into the program base to clear the shell screen, display a header and banner, and use two third-party classes, one for ANSI colors and the other for wrap lines. These actions align with user-centered design principles to demonstrate our ability to use well-founded and innovative techniques, skills, and tools in computing to implement maintainable computer solutions that deliver value and accomplish industry-specific goals.
 
-### _Artifact Algorithms and Data Structures_
+# _Algorithms and Data Structures_
 
 <div style="text-align: center;">
 	<a href="IT145" title="Artifact: Algorithms and Data Structure">
