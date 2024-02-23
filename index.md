@@ -1,8 +1,4 @@
 ## Welcome
-
-This ePortfolio is a highlight of all the skills that I have gained over the past 4 years. 
-	With no experience with programming when I started, it is amazing how far I have come. 
-
 ### <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
@@ -20,15 +16,12 @@ This ePortfolio is a highlight of all the skills that I have gained over the pas
 
 <img id="self-assessment" src="assets/img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
-I started in the Computer Science program in January of 2018, studying for as long as five years. I plan to join the program to improve my background in the programming and development of applications and web services. This effort was because of my passion for working with computers and technology, performing web development, and have led some IT projects and implementing IT infrastructures during my years of practicing Architecture.
+I started in the Computer Science program in March of 2021. I intitially started the Computer Science program at SNHU to get promoted while I was in the Army. I picked computer science because of the job opportunities that I was interested in required a degree and the most common degree was computer science. I however did not do much research on what the program entailed and was surprised how many software development classes there were. Once I learned the basics of programming I throughly enjoyed the classes and have learned many skills that have helped me progress in my current career field. 
 
-While in the Computer Science Program, I have learned and improved an innumerable number of abilities, skills, and knowledge. I have improved my attention to detail and security mindset as crucial skills to perform as a software engineer and developer. Being organized and cautious in my code development and doing it in simple blocks and testing as part of my workflow help me improve these skills and abilities. Testing is crucial to ensuring a program works and is free of weaknesses and vulnerabilities and becomes more complicated as a project grows in complexity. Acknowledging and adopting a tester mindset and a security mindset are well-required skills and abilities that improve continuously.
+While in the Computer Science Program, I have learned and improved an innumerable number of abilities, skills, and knowledge. I have improved my attention to detail, logical thinking, troubleshooting and computer literacy skills. I have also gained the ability to create complete project plans, interpreting customer requirements and programming skills in Java, Javascript, Python and C++. 
 
 <div style="text-align: center;">
-    <a href="https://github.com/arsari/OpenGL-ZigZag" target="_blank">
-		<img src="assets/img/CS330-Screenshot.png" width="720px" title="OpenGL ZigZag Chair Screenshot" />
-	</a>
-    <p><em>Figure 1 - OpenGL ZigZag Chair - CS330 Computational Graphics and Visualization</em></p>
+	<img src="assets/img/CS330-Screenshot.png" width="720px" title="OpenGL ZigZag Chair Screenshot" />
 </div>
 
 Attention to detail relates to code reviews, security standards, and best practices. Thinking with security in mind and not leaving it to the end is a way to gain a zero-trust ethic and approach that improves my coding skills. By combining code reviews and a security mindset, I can analyze my code and peer's code and look for mistakes and vulnerabilities that I may have missed during my focus on code development. Applying best practices and standards helps me produce formatted, understood, and maintainable software code and systems. In the same way, asking for help from peers to look at and review my work is another way to improve my abilities and skills in attention to detail and communication. Looking at my work with a fresh set of eyes helps me quickly discover overlooked mistakes.
