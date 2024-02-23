@@ -41,7 +41,7 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 ### _Code Review_
 
-<img id="codereview" src="assets/img/codereview.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
+<img id="codereview" src="assets/img/coder_eview.png" alt="Code Review" title="Code Review" />
 
 As a software engineer, I know that code reviews are critical aspects of software development. Code reviews ensure quality assurance for our project's code and often identify critical bugs early on in its life cycle. However, the typical code review can be tedious with too many meetings and meetings that waste time. We can think that code reviews add an unnecessary bureaucracy to our development life cycle or believe we are too small to warrant the effort. In both instances, we are mistaken.
 
