@@ -70,11 +70,7 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 # _Code Review_
 
-As a software engineer, I know that code reviews are critical aspects of software development. Code reviews ensure quality assurance for our project's code and often identify critical bugs early on in its life cycle. However, the typical code review can be tedious with too many meetings and meetings that waste time. We can think that code reviews add an unnecessary bureaucracy to our development life cycle or believe we are too small to warrant the effort. In both instances, we are mistaken.
-
-Code review is a systematic examination of the computer source code, sometimes known as peer review. I intend to find and fix mistakes overlooked in the initial development phase, improving the overall quality of the software and my developers' skills. In the professional world of programming, code reviews are a staple of quality assurance. A code review can be accomplished in various ways and with any requirements, but it is a straightforward concept stripped down to its bare essence. It is necessary for anyone interested in software engineering best practices.
-
-Code reviews catch errors when they’re cheap to fix, strengthen the team’s abilities, and add a certain amount of fault tolerance to the organization or individuals to better recover from disruptive changes. It results in better code, which is more easily maintained. Exercising a code review of the selected artifacts for software design and engineering, algorithms and data structure, and databases helped me to capacitate and employ strategies that help in the building of collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science based on the critical elements of existing functionality code analysis, and enhancements.
+The importance of a code review cannot be underestimated. 
 
 ### _Code Review Videos Link_
 
