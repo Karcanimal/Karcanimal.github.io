@@ -13,8 +13,8 @@ Looking ahead, I am eager to continue leveraging the skills and knowledge acquir
 <div align="center">
   <table>
     <tr>
-      <th>Hard Skills</th>
-      <th>Soft Skills</th>
+      <th style="font-weight: bold;">Hard Skills</th>
+      <th style="font-weight: bold;">Soft Skills</th>
     </tr>
     <tr>
       <td>Programming</td>
@@ -70,7 +70,7 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 # _Code Review_
 
-The importance of a code review cannot be underestimated. 
+The importance of a code review cannot be underestimated. The ability for the development team to have a structured environment can improve the overall team knowledge and ensure the consistency of the code base can be improved. 
 
 ### _Code Review Videos Link_
 
