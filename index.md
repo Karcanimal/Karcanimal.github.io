@@ -11,19 +11,48 @@ One of the most significant takeaways from the program has been the skill to sif
 Looking ahead, I am eager to continue leveraging the skills and knowledge acquired from the program to further advance in my career. Whether it's pursuing advanced certifications or exploring leadership opportunities, I am confident that the foundation laid by the Computer Science program will continue to propel me towards achieving my goals.
 
 <div align="center">
-  
-| **Hard Skills**     | **Soft Skills**     |
-|:-------------------:|:-------------------:|
-| Programming         | Communication       |
-| Data Analysis       | Attention to Detail |
-| Data Visualization  | Critical Thinking   |
-| Data Structures     | Problem Solving     |
-| Operating Systems   | Time Management     |
-| Algorithms          | Adaptability        |
-| Technical Writing   | JAVA                |
-| Machine Learning    | Python              |
-| Mobile Development  | C++                 |
-
+  <table>
+    <tr>
+      <th>Hard Skills</th>
+      <th>Soft Skills</th>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>Communication</td>
+    </tr>
+    <tr>
+      <td>Data Analysis</td>
+      <td>Attention to Detail</td>
+    </tr>
+    <tr>
+      <td>Data Visualization</td>
+      <td>Critical Thinking</td>
+    </tr>
+    <tr>
+      <td>Data Structures</td>
+      <td>Problem Solving</td>
+    </tr>
+    <tr>
+      <td>Operating Systems</td>
+      <td>Time Management</td>
+    </tr>
+    <tr>
+      <td>Algorithms</td>
+      <td>Adaptability</td>
+    </tr>
+    <tr>
+      <td>Technical Writing</td>
+      <td>JAVA</td>
+    </tr>
+    <tr>
+      <td>Machine Learning</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>Mobile Development</td>
+      <td>C++</td>
+    </tr>
+  </table>
 </div>
 
 # _Artifact Overview_
