@@ -74,11 +74,7 @@ Below you can find the link to the informal code review where I talk about the i
 
 ### _Code Review Videos Link_
 
-<div style="text-align: center;">
-	<a href="CodeReview" title="Artifacts Code Review">
-		<img src="https://img.shields.io/badge/Artifacts-Refinement_Plan and_Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
-	</a>
-</div>
+<iframe src="[[https://drive.google.com/file/d/1wAWk0ekPUS0zROQoBSAq1Beo8ZwgxG_q/preview](https://youtu.be/HLgYiAfuDyM)](https://youtu.be/HLgYiAfuDyM)" width="640" height="480"></iframe>
 
 <div style="text-align: right;">
     <a href="#">
