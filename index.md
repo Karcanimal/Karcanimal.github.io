@@ -154,7 +154,7 @@ While enhancing the database I learned the importance of researching the needs o
     </div>
 
     <div>
-        <img src="assets/img/enhanced_menu.jpg" width="60%" title="Original Screen" />
+        <img src="assets/img/enhanced_menu.png" width="60%" title="Original Screen" />
         <p><em>Figure 1 Enhanced Menu Screen</em></p>
     </div>
 
