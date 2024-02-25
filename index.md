@@ -72,15 +72,13 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 Below you can find the link to the informal code review where I talk about the intital code base and the improvement that are going to be made. 
 
-<iframe src="https://youtu.be/HLgYiAfuDyM" width="640" height="480"></iframe>
+<iframe src="https://www.youtube.com/watch?v=HLgYiAfuDyM" width="640" height="480"></iframe>
 
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
-
-<br/>
 
 # _Software Design and Engineering_
 
