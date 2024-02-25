@@ -127,5 +127,8 @@ While enhancing the database I learned the importance of researching the needs o
 </div>
 
 # _Original_
-
+<div style="text-align: center;">
+    <img src="assets/img/original_login.png" width="100%" title="Original Login" />
+    <p><em>Figure 1 Original Login Screen</em></p>
+</div>
 # _Enhanced_
