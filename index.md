@@ -130,19 +130,36 @@ While enhancing the database I learned the importance of researching the needs o
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <img src="assets/img/original_login.png" width="40%" title="Original Login" />
+        <img src="assets/img/original_login.png" width="60%" title="Original Login" />
         <p><em>Figure 1 Original Login Screen</em></p>
     </div>
 
     <div>
-        <img src="assets/img/original_screen.png" width="40%" title="Original Screen" />
+        <img src="assets/img/original_screen.png" width="60%" title="Original Screen" />
         <p><em>Figure 1 Original Main Screen</em></p>
     </div>
 
     <div>
-        <img src="assets/img/original_add_item.png" width="40%" title="Original Add Item" />
+        <img src="assets/img/original_add_item.png" width="60%" title="Original Add Item" />
         <p><em>Figure 1 Original Add Item Dialog</em></p>
     </div>
 </div>
 
 # _Enhanced_
+
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="assets/img/enhanced_login.jpg" width="60%" title="Original Login" />
+        <p><em>Figure 1 Enhanced Login Screen</em></p>
+    </div>
+
+    <div>
+        <img src="assets/img/enhanced_menu.jpg" width="60%" title="Original Screen" />
+        <p><em>Figure 1 Enhanced Menu Screen</em></p>
+    </div>
+
+    <div>
+        <img src="assets/img/enhanced_add_item.jpg" width="60%" title="Original Add Item" />
+        <p><em>Figure 1 Enhanced Add Item Dialog</em></p>
+    </div>
+</div>
