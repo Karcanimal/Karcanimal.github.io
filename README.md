@@ -10,6 +10,7 @@ Professor Brooke Goggin
 
 20 February 2024
 
+
 I enrolled in the Computer Science program at SNHU in March 2021 with the initial goal of securing advancement opportunities in the Army. 
 While I initially chose this program due to the job prospects it offered, I was pleasantly surprised by the depth of software development courses it included.
 As I delved into programming fundamentals, I found myself thoroughly enjoying the classes and discovering the myriad of skills that were directly applicable to my role as a Radio Technician.
