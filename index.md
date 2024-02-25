@@ -72,7 +72,7 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 Below you can find the link to the informal code review where I talk about the intital code base and the improvement that are going to be made. 
 
-<iframe src="https://www.youtube.com/watch?v=HLgYiAfuDyM" width="640" height="480"></iframe>
+<iframe src="https://www.youtube.com/embed/HLgYiAfuDyM" width="640" height="480"></iframe>
 
 <div style="text-align: right;">
     <a href="#">
