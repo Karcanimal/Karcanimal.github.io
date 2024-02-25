@@ -131,17 +131,17 @@ While enhancing the database I learned the importance of researching the needs o
 <div style="display: flex; justify-content: space-between;">
     <div>
         <img src="assets/img/original_login.png" width="60%" title="Original Login" />
-        <p><em>Figure 1 Original Login Screen</em></p>
+        <p><em>Figure 1-1 Original Login Screen</em></p>
     </div>
 
     <div>
         <img src="assets/img/original_screen.png" width="60%" title="Original Screen" />
-        <p><em>Figure 1 Original Main Screen</em></p>
+        <p><em>Figure 1-2 Original Main Screen</em></p>
     </div>
 
     <div>
         <img src="assets/img/original_add_item.png" width="60%" title="Original Add Item" />
-        <p><em>Figure 1 Original Add Item Dialog</em></p>
+        <p><em>Figure 1-3 Original Add Item Dialog</em></p>
     </div>
 </div>
 
@@ -150,16 +150,16 @@ While enhancing the database I learned the importance of researching the needs o
 <div style="display: flex; justify-content: space-between;">
     <div>
         <img src="assets/img/enhanced_login.jpg" width="60%" title="Original Login" />
-        <p><em>Figure 1 Enhanced Login Screen</em></p>
+        <p><em>Figure 2-1 Enhanced Login Screen</em></p>
     </div>
 
     <div>
-        <img src="assets/img/enhanced_menu.png" width="60%" title="Original Screen" />
-        <p><em>Figure 1 Enhanced Menu Screen</em></p>
+        <img src="assets/img/enhanced_menu.png" width="60%" title="Original Menu" />
+        <p><em>Figure 2-2 Enhanced Menu Screen</em></p>
     </div>
 
     <div>
         <img src="assets/img/enhanced_add_item.jpg" width="60%" title="Original Add Item" />
-        <p><em>Figure 1 Enhanced Add Item Dialog</em></p>
+        <p><em>Figure 2-3 Enhanced Add Item Dialog</em></p>
     </div>
 </div>
