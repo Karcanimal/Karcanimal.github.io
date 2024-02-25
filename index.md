@@ -127,8 +127,20 @@ While enhancing the database I learned the importance of researching the needs o
 </div>
 
 # _Original_
-<div style="text-align: center;">
-    <img src="assets/img/original_login.png" width="100%" title="Original Login" />
+
+<div style="text-align: left;">
+    <img src="assets/img/original_login.png" width="50%" title="Original Login" />
     <p><em>Figure 1 Original Login Screen</em></p>
 </div>
+
+<div style="text-align: center;">
+    <img src="assets/img/original_screen.png" width="50%" title="Original Screen" />
+    <p><em>Figure 1 Original Main Screen</em></p>
+</div>
+
+<div style="text-align: right;">
+    <img src="assets/img/original_add_item.png" width="50%" title="Original Add Item" />
+    <p><em>Figure 1 Original Add Item Dialog</em></p>
+</div>
+
 # _Enhanced_
