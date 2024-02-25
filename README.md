@@ -1,8 +1,13 @@
 7-1 Project 1 Narrative
+
 Christopher Karchella
+
 Southern New Hampshire University
+
 CS-499 Computer Science Capstone
+
 Professor Brooke Goggin
+
 20 February 2024
 
 I enrolled in the Computer Science program at SNHU in March 2021 with the initial goal of securing advancement opportunities in the Army. 
