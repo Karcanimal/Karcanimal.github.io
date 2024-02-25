@@ -70,7 +70,7 @@ The artifact I have chosen to enchance for Software Design and Engineering, Algo
 
 # _Code Review_
 
-The importance of a code review cannot be underestimated. The ability for the development team to have a structured environment can improve the overall team knowledge and ensure the consistency of the code base can be improved. 
+Below you can find the link to the informal code review where I talk about the intital code base and the improvement that are going to be made. 
 
 ### _Code Review Videos Link_
 
@@ -96,52 +96,17 @@ I have developed a secuity mindset that anticipates adversarial exploits in soft
 
 I have also demonstrated the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specfic goals by implementing the reworking the code base and properly sperating the classes into their own individual files, implementing a logging mechnism and adhering to proper industry standards. Reworking the code base to seperate the files enhances the readability of code. It also allows for detailed comments that describe the class in depth and allows for other developers the abiltiy to understand the class and adapt the code base to other projects. The logging mechnism allows for a developer to conduct a performance envaulation of how the application works and troubleshoot errors that occur during development and release. 
 
-<div style="text-align: center;">
-    <img src="assets/img/ItemsActivity.png" width="300px" title="Items Activity Screenshot" />&nbsp;&nbsp;&nbsp;
-    <img src="assets/img/EditItem_AlertDialog.png" width="300px" title="Edit Item Alert Dialog Screenshot" />
-    <p><em>Figure 4 - Items Activity and Edit Alert Dialog Screenshot</em></p>
-</div>
-
-
-
-### _Artifact Software Design and Engineering_
-
-<div style="text-align: center;">
-	<a href="CS360" title="Artifact: Software Design and Engineering">
-		<img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-yellow.svg?style=for-the-badge&logo=paloaltosoftware" alt="Artifact: Software Design and Engineering" />
-	</a>
-</div>
-
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
-
-<br/>
-
-<img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
-
-As presented in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the algorithms and data structure category is the **Zoo Monitoring System Program**. The program aims to develop an authentication system that manages authentication and authorization for zookeeper users and administrators. The program was planned, designed, and developed as part of the IT145 Foundation in Application Development computer science course. The program is produced in the JAVA programming language as a standalone application running in the computer terminal. The initial development and programming tool used was Apache NetBeans IDE; however,  I worked on the enhancements using a text editor. The testing and running of the app are through the computer terminal.
-
-I selected this artifact because it involved understanding a program algorithm composed of two central systems, an authentication/authorization system, with the enhancement of modules for a monitoring system. Once the users enter the program, they only should see data related to their role. The artifact consists of design considerations to authenticate and authorize a user into the monitor system based on user credentials and the accountability of the user interaction with different modules screen and actions according to their role in the monitor system.
-
-<div style="text-align: center;">
-    <img src="assets/img/IT145-UserManagement.jpg" width="480px" title="User Manager Table Screenshot" />
-    <p><em>Figure 5 - Zoo Monitoring System User Management Dashboard Screenshot</em></p>
-</div>
-
-I designed software that considers and interprets user needs and implement them into a program with a relation of activities in an organized structure. The enhancements allow the user to list animal/habitat options by reading from external animal files or habitats files, know the animals' activities in their care, and monitor their living habitats. Understanding the algorithms required by the program scenario gives the ability to translate it to pseudocode as one program code.
-
-I developed an organized structure of a block of codes that can be separated into a primary class and four classes (modules). One of the four classes is a menu (Display Class) repetitive in the three key system modules, RoleModule, MonitorModule, and User Module. I introduce GUI actions into the program base to clear the shell screen, display a header and banner, and use two third-party classes, one for ANSI colors and the other for wrap lines. These actions align with user-centered design principles to demonstrate our ability to use well-founded and innovative techniques, skills, and tools in computing to implement maintainable computer solutions that deliver value and accomplish industry-specific goals.
 
 # _Algorithms and Data Structures_
 
-<div style="text-align: center;">
-	<a href="IT145" title="Artifact: Algorithms and Data Structure">
-		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
-	</a>
-</div>
+The CS 360: Mobile Architecture and Programming final project was a excellent project to perform an enhancement of the Algorithm and Data Structure category. The enhancement plan was to create a scalable data structure that is tailored to the indivdual user. Since the original data structure only consisted of the 3 fields that were required by the original customer it was a speacialized software tailored to an individual. With the introduction of the enhancement the application can be tailored to any user. The enhanced application still has the 3 original fields, but now has the ability to add new columns that can be customized by the user. This flexible dynamic data structure is perfect to fit into any companies inventory needs.
+
+I have demonstrated the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by implementing the addtion of the flexible data structure. The flexible data structure components consist of a new inserting method and an updated review method that returns the new columns with its corresponding information related to the column. 
 
 <div style="text-align: right;">
     <a href="#">
@@ -149,45 +114,11 @@ I developed an organized structure of a block of codes that can be separated int
     </a>
 </div>
 
-<br/>
+# _Databases_
 
-<img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
+The CS 360: Mobile Architecture and Programming final project was a excellent project to perform an enhancement of the Database category. The enhancement plan was to add a filter function and the ability to import and export csv files to the application. The original application only had an insertion function. The enhanced application consist of the original insertion function, import csv function, export csv function and a filter function. The introduction of the import csv function allows for users of the application to intergrate the application into the user's work flow more easily and removes the need for the user to input information line by line. The export csv function allows the user to extract information from the application and create a workplace of interoperable systems that seemlessly intergrate information using csv files. The filter function is a great enhancement that allows a user to query only pertinent information. 
 
-As described in the [artifact code review](CodeReview "Refinement Plan and Code Review"), the artifact selected for the databases category is the **Salvare Search for Rescue Web App**. The web application aims to develop a web interface that works with an existing database from animal shelters to identify and categorize available dogs to train for different rescues. The web app was planned, designed, and developed for the CS340 Client/Server Development computer science course. The application is developed in Python with the Dash framework and the non-relational database MongoDB. The integration of Python and MongoDB is through the python driver PyMongo. The application can run in Jupyter Notebook as a test tool and the computer terminal with an internet browser. The application's functionality involves a CSV data file of existing dogs in shelters to import into MongoDB, the import of dependencies such as Python PyMongo driver, Python libraries, Dash framework, and a Python source code and CRUD module to manipulate the data imported into MongoDB.
-
-This artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns. The model's job is to manage the data, MongoDB, and Python data structures. The view's job is to decide what the user sees and how on their screen, Dash framework. The controller's responsibility is to pull, modify, and provide data to the user, the PyMongo driver. Each record in the MongoDB database is a document described in BSON, a binary representation of the data retrieved by the web app in a JSON format. When the main app file is executed in the computer terminal, the user opens an internet browser new tab pointing to the corresponding app address. The browser starts loading and generates the client-facing web application dashboard like the following screen:
-
-<div style="text-align: center;">
-    <img src="assets/img/CS340-Image.jpg" width="800px" title="Web App Client/Database Screenshot" />
-    <p><em>Figure 6 - Salvare Search Web App Client/Database Dashboard Screenshot</em></p>
-</div>
-
-The artifact enhancements focused on recreating the web application in a Windows environment after developing the source code in the Apporto Virtual Lab, a university remote desktop Linux platform. In recreating the web application, I designed software that considers and interprets user needs and implements them in an organized structure. Guided by the produced initial documentation, I recreated the web application environment, updating and revising the documentation according to the actions executed to replicate and run the web application in a Windows terminal.
-
-The process of setup and running the web application was challenging. However, I demonstrated my abilities to use well-founded and innovative techniques, skills, and tools in computing practices through the operation of the setup of Python and MongoDB before starting to follow the guidance in the web application documentation. Going through Python and MongoDB's setup procedures and updating the web app source code functionality because of changes in the PyMongo driver version and an upgraded MongoDB platform showcase my implementation of computer solutions that deliver value and accomplish industry-specific goals.  
-
-### _Artifact Databases_
-
-<div style="text-align: center;">
-	<a href="CS340" title="Artifact: Databases">
-		<img src="https://img.shields.io/badge/Artifact-Databases-blueviolet.svg?style=for-the-badge&logo=microsoftaccess" alt="Artifact: Databases" />
-	</a>
-</div>
-
-<div style="text-align: right;">
-    <a href="#">
-        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
-    </a>
-</div>
-
-## Reviews
-
-<blockquote id="reviews" class="review-container" cite="https://learn.snhu.edu/d2l/lms/grades/my_grades/main.d2l?ou=1014915">
-	<a href="mailto:b.goggin@snhu.edu"><img src="assets/img/brookegoggin.jpg" alt="Brooke Goggin" style="width: 90px;" /></a>
-	<p><span>Brooke Goggin, M.S., M.S., M.S., Ed.D(ABD)<br/>SNHU Computer Science Adjunct Faculty</span></p>
-	<em>"Being able to present your work in a cohesive manner is a skill that you will continue to refine in your career. The Zoo Monitoring with security and efficiency enhancements and interface as well as your extensive narratives is great work. This is a sound demonstration of making code  more concise and therefore with this change a bit faster. Wonderful explanation of what you did with the application to integrate Python with the Dash framework. Code is clean and well commented! You made it. Congratulations and you should be proud. The hard skills and soft skills table is great. Very well done portfolio with clear content of your depth of understanding!"</em>
-</blockquote>
-
+I have demonstrated the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by implementing the impot and export of csv functions and the filter function. With the enhanced application having these functions, it increases the useability and interoperability of the application. 
 
 <div style="text-align: right;">
     <a href="#">
