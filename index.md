@@ -125,3 +125,7 @@ While enhancing the database I learned the importance of researching the needs o
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
+
+# _Original_
+
+# _Enhanced_
