@@ -74,7 +74,7 @@ Below you can find the link to the informal code review where I talk about the i
 
 ### _Code Review Videos Link_
 
-<iframe src="[[[https://drive.google.com/file/d/1wAWk0ekPUS0zROQoBSAq1Beo8ZwgxG_q/preview](https://youtu.be/HLgYiAfuDyM)](https://youtu.be/HLgYiAfuDyM)](https://youtu.be/HLgYiAfuDyM)" width="640" height="480"></iframe>
+<iframe src="https://youtu.be/HLgYiAfuDyM" width="640" height="480"></iframe>
 
 <div style="text-align: right;">
     <a href="#">
